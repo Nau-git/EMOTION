@@ -1,0 +1,5 @@
+waitress
+flask
+numpy
+pandas
+tensorflow-cpu
